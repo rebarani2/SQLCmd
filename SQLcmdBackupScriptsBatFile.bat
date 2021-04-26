@@ -1,0 +1,1 @@
+SQLCmd.exe -E -S .\SQL2019_dev -i "C:\DATATOPROCESS1\BK_CmdPrompt\AnimalShelterBakup.sql"
